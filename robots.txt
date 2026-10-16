@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilgunabdurrahim.github.io/time-nomad/sitemap.xml
